@@ -6,5 +6,6 @@ c=a+b;
 d=b-c;
 System.out.println("Addition="+c);
 System.out.println("subtraction="+d);
+System.out.println("Finish");
 }
 }
